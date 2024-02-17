@@ -68,7 +68,7 @@ function Products() {
             <video
               loop
               muted
-              src="../public/videos/Cula_promo_new_4_3.mp4"
+              src="../videos/Cula_promo_new_4_3.mp4"
               className="h-full w-full object-cover"
             />
           </motion.div>
@@ -80,7 +80,7 @@ function Products() {
             <video
               loop
               muted
-              src="../public/videos/Maniv-Compressed.mp4"
+              src="../videos/Maniv-Compressed.mp4"
               className="h-full w-full object-cover"
             />
           </motion.div>
@@ -92,7 +92,7 @@ function Products() {
             <video
               loop
               muted
-              src="../public/videos/showcase_4_3.mp4"
+              src="../videos/showcase_4_3.mp4"
               className="h-full w-full object-cover"
             />
           </motion.div>
@@ -104,7 +104,7 @@ function Products() {
             <video
               loop
               muted
-              src="../public/videos/rocketchat.webm"
+              src="../videos/rocketchat.webm"
               className="h-full w-full object-cover"
             />
           </motion.div>
@@ -116,7 +116,7 @@ function Products() {
             <video
               loop
               muted
-              src="../public/videos/rainfall.webm"
+              src="../videos/rainfall.webm"
               className="h-full w-full object-cover"
             />
           </motion.div>
@@ -128,7 +128,7 @@ function Products() {
             <video
               loop
               muted
-              src="../public/videos/summon.webm"
+              src="../videos/summon.webm"
               className="h-full w-full object-cover"
             />
           </motion.div>
